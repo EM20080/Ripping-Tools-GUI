@@ -1,1 +1,0 @@
-texconv.exe *.dds -f R16G16B16A16_UNORM -srgbi -ft png
